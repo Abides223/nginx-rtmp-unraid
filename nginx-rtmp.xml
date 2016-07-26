@@ -14,7 +14,7 @@
   </Description>
   <Project>https://www.nginx.com/</Project>
   <Registry>https://github.com/sameersbn/docker-nginx/</Registry>
-  <Repository>sameersbn/docker-nginx</Repository>
+  <Repository>sameersbn/nginx:1.10.1-2</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment>
